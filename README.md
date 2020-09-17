@@ -23,9 +23,16 @@ Here are some ideas to get you started:
 
 ![Qiita contributions](https://qiita-badge.apiapi.app/s/ukyooo/contributions.svg)
 
+----
+
+## GitHub Stats
+
 use: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
+### Ukyoo!'s GitHub stats (public)
 
 ![Ukyoo!'s GitHub stats (public)](https://github-readme-stats.vercel.app/api?username=ukyooo&show_icons=true&theme=dark)
 
-![Ukyoo!'s GitHub stats (private)](https://github-readme-stats.vercel.app/api?username=ukyooo&show_icons=true&count_private=true&theme=dark)
+### Ukyoo!'s GitHub stats (private)
 
+![Ukyoo!'s GitHub stats (private)](https://github-readme-stats.vercel.app/api?username=ukyooo&show_icons=true&count_private=true&theme=dark)
