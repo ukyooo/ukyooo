@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub followers](https://img.shields.io/github/followers/ukyooo?style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/ukyooo?style=social)
+
+![Qiita posts](https://qiita-badge.apiapi.app/s/ukyooo/posts.svg)
+
+![Qiita contributions](https://qiita-badge.apiapi.app/s/ukyooo/contributions.svg)
+
+use: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
+![Ukyoo!'s GitHub stats (public)](https://github-readme-stats.vercel.app/api?username=ukyooo&show_icons=true&theme=dark)
+
+![Ukyoo!'s GitHub stats (private)](https://github-readme-stats.vercel.app/api?username=ukyooo&show_icons=true&count_private=true&theme=dark)
+
