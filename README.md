@@ -27,21 +27,50 @@ Here are some ideas to get you started:
 
 ![Qiita contributions](https://qiita-badge.apiapi.app/s/ukyooo/contributions.svg)
 
+
+
+----
+
+<p align="center">
+  <a href="https://twitter.com/ukyooo" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ukyooo" height="30" width="30" />
+  </a>
+  <a href="https://linkedin.com/in/ukyooo" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ukyooo" height="30" width="30" />
+  </a>
+  <a href="https://fb.com/ukyooo" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ukyooo" height="30" width="30" />
+  </a>
+  <a href="https://instagram.com/ukyooo" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ukyooo" height="30" width="30" />
+  </a>
+</p>
+
+
+
 ----
 
 ## GitHub Stats
 
 use: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
-### Ukyoo!'s GitHub stats (public)
+### GitHub stats (public)
 
 ![Ukyoo!'s GitHub stats (public)](https://github-readme-stats.vercel.app/api?username=ukyooo&show_icons=true&theme=dark)
 
-### Ukyoo!'s GitHub stats (private)
+### GitHub stats (private)
 
 ![Ukyoo!'s GitHub stats (private)](https://github-readme-stats.vercel.app/api?username=ukyooo&show_icons=true&count_private=true&theme=dark)
 
+### Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ukyooo&layout=compact)
+
+
+
 ----
+
+## banner
 
 ```bash
 WIDTH=64 && banner -w $WIDTH 'Ukyoo!' | tr '# ' '+-' | awk -v width=$WIDTH '{
@@ -117,6 +146,4 @@ WIDTH=64 && banner -w $WIDTH 'Ukyoo!' | tr '# ' '+-' | awk -v width=$WIDTH '{
                                         #####
                                         #####
                                          ###
-
 ```
-
